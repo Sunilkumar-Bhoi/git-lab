@@ -1,4 +1,5 @@
-this is a file created to perform task og learning github
+This is a file created to perform task of learning github
 new line for commit.
 task of branching.
 create two line in new branch.
+
