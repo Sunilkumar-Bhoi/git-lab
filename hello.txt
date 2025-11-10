@@ -1,3 +1,3 @@
-Thisis a file created to perform task og learning github
+This is a file created to perform task og learning github
 new line for commit.
 last line in main branch.
